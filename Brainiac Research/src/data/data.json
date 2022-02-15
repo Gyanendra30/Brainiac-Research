@@ -1,0 +1,226 @@
+{
+  "Header": {
+    "title": "We are a Research Platfrom",
+    "paragraph": "Brainiac signal  is a dedicated Research House which provides Trading Recommendations in the Indian Equity & Commodity market. We primarily do Technical & Fundamental Analysis to create Best Stock Tips, dealing in all the asset classes- Equity Cash, Future & Option, Commodity & Derivative Market. and specially known for premium research services all over the country. Whether you are a long-term value investor or a day trader; a beginner or a professional investor willing to trade, we provide you with various investment solutions to help you achieve your goals."
+  },
+  "About": {
+    "paragraph": "Brainiac Signal  started with a goal of creating wealth for the Retail and HNI Investors by giving out quality Technical and Fundamental research at a very reasonable price.We are a team of highly skilled & enthusiastic professionals with enough experience to provide precise Trading recommendations related to the Indian Equity and Commodity market.",
+    "Why": [
+      "LIVE SUPPORT",
+      "INNSIGHT",
+      "WELL SKILL RESEARCH TEAM",
+      "SPECIAL SERVICES"
+    ]
+  },
+  "PRICING_PLANS": [
+    {
+      "key": "Stock Cash",
+      "data" : { 
+      "MONTHLY": "7999/-",
+      "QUARTERLY": "20000/-",
+      "HALF-YEARLY": "35000/-",
+      "YEARLY" : "- NA "
+   }
+    },
+    {
+      "key": "Stock Cash",
+      "data" : { 
+      "MONTHLY": "7999/-",
+      "QUARTERLY": "20000/-",
+      "HALF-YEARLY": "35000/-",
+      "YEARLY" : "- NA "
+   }
+    },
+    {
+      "key": "Stock Cash",
+      "data" : { 
+      "MONTHLY": "7999/-",
+      "QUARTERLY": "20000/-",
+      "HALF-YEARLY": "35000/-",
+      "YEARLY" : "- NA "
+   }
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "STOCK CASH",
+      "text": "Stock tips are a way through which the intraday traders can earn. Purely intraday traders can work upon such tips. At BRAINIAC technical team works upon stocks to evaluate the buying or selling decision in order to ensure the execution of the trade. We provide stock cash tips to our traders which successfully achieve their targets.The day’s high and low of a particular stock gives a difference of value which is an opportunity for a trader.",
+      "investment": [
+        "Minimum Investment – INR  100000",
+        "Recommendation Frequency – 30-40 monthly.",
+        "Mode of recommendation – SMS, Follow-Up.",
+        "Product Risk – This service is for Moderate Risk Investor or Trader.",
+        "BASIC PACK NCC BUY ABOVE 74 ,TGT1  75.50. ,TGT2  76.50. ,SL 72.60 ,CMP 73.55."
+      ]
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "STOCK OPTION",
+      "text": "Under this you will get Stock Options tips calls on intraday or positional basis given by us in this package. We will give monthly average 20 calls which are good for smart investors. Options Trading is not a easy task.Our  team look after all your trading need in this service and provide you best in the market. This Package is good value for money. Trading in   Options tips calls may provide huge returns on small trading amounts.",
+      "investment": [
+        "Minimum Investment – INR  50000",
+        "Recommendation Frequency – 25-30 monthly.",
+        "Mode of recommendation – SMS, Follow-Up.",
+        "Product Risk – This service is for High Risk Investor or Trader.",
+        "BUY ASHOKLEY CALL OF STRIKE PRICE AT 130, AT 6,CMP – 5.70, LOT– 1,TGT– 6.5, 7.2, 7.95,SL– 5.3,LOT SIZE– 4500,EXPIRY– 27 MAY 2021"
+      ]
+    },
+
+
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "STOCK FUTURE",
+      "text": "Trading in Stock Futures is a far better deal. Although being a new field in comparison to the cash market, the highest number of trades is registered in this segment. Derivative market is attending great heights among the traders.This service is for the traders who trade in Stock Futures. BRAINIAC SIGNAL provides you Intraday Calls on Stock Futures. These Stock Futures Tips are the result of core research and analysis of our technical team and help you to grab profit. Stock Futures Tips are given by analysts who work  on this service and are best at it. Our call via SMS will reach you as soon as the analyst sends so there is no time lag between you reading it and working on the call.",
+      "investment": [
+        "Minimum Investment – INR  100000",
+        "Recommendation Frequency – 25-30 monthly.",
+        "Mode of recommendation – SMS, Follow-Up.",
+        "Product Risk – This service is for High Risk Investor or Trader.",
+        "BASIC PACK TATAMOTORS FUTURE BUY ABOVE 496.40 ,TGT1 499.80 ,TGT2 503.35 ,SL 493.05 ,CMP 495.80."
+      ]
+
+    },
+
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "MCX SERVICE",
+      "text": "Looking at the increasing volatility in the commodity market even the equity market traders are getting attracted towards it. The volatility is seen on both the sides of the market whether upward or downward. Commodity Tips covers all the precious metals like gold, silver base metals and energy products. Where the calls are prepared by qualitative analysis or various technicalities as well data like International data etc, for preparing the most accurate tips in the market.",
+      "investment": [
+        "Minimum Investment – INR  100000",
+        "Recommendation Frequency – 30-40 monthly.",
+        "Script of Calls – Calls will be in Precious Metals – Gold and Silver, Base",
+        "Metals – Copper, Zinc, Lead,and Nickel",
+        "Energy Commodities – Crude Oil, Natural Gas.",
+        "Mode of recommendation – SMS, Follow-Up.",
+        "Product Risk – This service is for High Risk Investor or Trader."
+      ]
+    },
+
+   
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "NCDEX PACK SERVICE",
+      "text": "NCDEX Agri package is the most reliable package of BRAINIAC SIGNAL. Under this service we provide recommendations in Agro Products like Chana, Soybean, Jeera, Turmeric, Dhaniya, RMSEED, Soya Oil etc. We use technical analysis and Fundamental Techniques to analyze the agro commodities and provide the calls. The recommendations are given after the research so that our accuracy level remains high and our clients make huge profits. In Indian commodity market the agro commodities are very much influenced by the weather cycles. Along with the Local factors there are some global factors also which causes fluctuation in the agro commodities in the market. All such factors are very important while generating agro commodities tips. Our research team keeps close eye on all such factors so that all these factors can be discounted at the time of giving recommendations.",
+      "investment": [
+        "AGRI COMMODITY MARKET TREND, RESISTANCE & SUPPORT.",
+        "CUSTOMER SUPPORT.",
+        "RECOMMENDATION FREQUENCY – 30-40 MONTHLY.",
+        "MINIMUM INVESTMENT /TRADING AMOUNT- INR  100000",
+        "THIS SERVICE IS FOR HIGH RISK INVESTOR OR TRADER."
+      ]
+    
+    } ,
+
+
+    
+    {
+      "icon": "fa fa-wordpress",
+      "name": "INDEX SERVICES",
+      "text": "If Nifty/Index is your favorite cookie, this (Index Premium) is only for you. A premium class service segment specially designed to avail you of the exclusive Index trades according to your needs. The nifty market is a very risky market and therefore, understanding the market movements is very necessary. Our Research Experts carry out in depth technical research to deliver high accuracy advice/recommendations This product is specially designed for those traders' who trade only in INDEX SERVICES (Nifty and Bank Nifty Futures & Option) for intraday or occasional holdings. After a thorough study of data and information, our Research Experts provide recommendations which bring customer satisfaction. Recommendations will be specially provided in NIFTY, well analyzed, technical and fundamentally proved. We also provide our clients with planned strategies.",     
+      "investment": [
+        "Index Premium is ideal for intra-day trades/ occasional holdings.",
+        "Risk involved in such trades are “High”.",
+        "Daily 1-2 recommendations are provided (Recommendations Counts may vary as per market conditions).",
+        "Recommendations and Follow-ups messages sent on registered mobile numbers via SMS.",
+        "Minimum Investment/Capital required in this product is INR 1,00,000.",
+        "Recommendations, updates and trends alerts sent via SMS.",
+        "Recommendations having proper Entry level, Target and Stop loss.",
+        "Follow up and support during trading hours in case of any issues while understanding SMS.",
+        "Complete Updates over the phone via SMS. Sample.",
+        "INDEX OPTION PREMIUM CALL: BUY BANK NIFTY 35500 PUT OPTION (17TH JAN) NEAR 250-255 TGT 400 SL 150,",
+        "INDEX FUTURE CALL: SELL BANK NIFTY (JAN) BELOW 37544 TGT-37469-37394 SL 37628."
+
+      ]
+    
+    }
+
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+     "text": "Ever wanted to earn an income from trading without worrying about picking the right Stocks? Picking the right Stocks requires hours of research and a ton of experience. Why waste hours a day and go through all the trial and error? When you can simply sit back, relax and trade on our well-researched alerts.Without “Spot-On” stock tips and effective market recommendations , through our best-in-class professionals, we cater the best of services to our valued traders."
+    }
+    
+  ],
+
+  "Disclaimer": [
+    {
+     "text": "These are the expected returns based on the Analysis of the stocks given and past performance. Brainiac Signal never guarantee the returns on the calls given. Investment/trading in stocks always subject to market risk. Past Performance is No Guarantee of Future Results.",
+     "text2":"Investment/Trading is subject to market risk. The risk of loss in trading any financial markets including equity & commodity can be substantial. These are leveraged products that carry a substantial risk of loss up to your invested capital and may not be suitable for everyone. Before you start trading, we recommend you carefully study the terms of trading. All trading transactions are the responsibility of traders. We strongly recommend to read Disclaimer & Risk Warning carefully before making any decisions to subscribe our services.",
+     "Disclosure": [
+      "All investments in Stock Markets, Commodity Markets and other financial instruments traded here are subject to market risks and the Returns may go up or down depending upon the factors and forces affecting the securities market including the fluctuations in the interest rates.",
+      "KYC (Know Your Customer) and Risk Profiling/Risk Assessment need to be completed before you can use any services of Brainiac Signal. Even if the subscription fees are paid, no services would be rendered/activated to any customer before the completion of KYC (Know Your Customer) and Risk Profiling formalities. For KYC (Know Your Customer) formalities we proceed with the information mentioned on the PAN Card Number only.",
+      "There can be no assurance that an objective will be achieved. The past performance of the calls/recommendations given or managed by Brainiac Signal and its affiliates is not necessarily indicative of the future performance of the Calls/Advice. The Service is not guaranteeing or assuring any returns under any of the Services subscribed to herewith.",
+      "The investments made in the Stock Markets, Commodity Markets and/or in any of financial instruments are subject to external risks. The floating rate investments are subject to risks pertaining to Interest rate movement, Spread Movement, Settlement and Liquidity.",
+      "Brainiac Signal will not be liable for any, direct or indirect, consequential or incidental damages or loss arising out of the use of the information given on the website or through SMS.",
+      "Brainiac Signal generates all its Advice/Recommendations via the science of Technical and fundamental analysis. Our services are limited to providing research-based trading signals.",
+      "Brainiac Signal does not provide any execution based/PMS (Portfolio management) based services. We only provide investment advice to customers on a pre-paid subscription basis.",
+      "Brainiac Signal does not have affiliations with any intermediary and hence does not receive any remuneration or compensation of any form from any other intermediary.",
+      " Investment/trading in the securities markets is subject to market risk and Brainiac Signal doesn’t offer any assured and guaranteed returns on any services/products. Brainiac Signal doesn’t provide any profit sharing services, guaranteed services and services which are not mentioned in our website, if in case any person tries to sell such services please contact us on +918819029888."
+    ]
+    }
+    
+  ]
+}

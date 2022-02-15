@@ -1,0 +1,193 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.intro h1 {
+  font-family: "Raleway", sans-serif;
+  color: #fff;
+  font-size: 82px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-top: -166px;
+}
+
+
+.intro p {
+  color: #fcf8e3;
+  font-size: 22px;
+  font-weight: 300;
+  line-height: 30px;
+  margin: 89px auto;
+  margin-bottom: -75px;
+  font-weight: initial;
+}
+
+.section-title h2 {
+  position: relative;
+  margin-top: 35px;
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+}
+
+
+.fear p  {
+  font-size: 20px;
+  font-weight: 300;
+  margin-top: -43px;
+}
+
+.match-parent {
+  text-align: -webkit-auto;
+  font-weight: bolder;
+  font-size: large;
+}
+
+
+.investment li {
+
+  text-align: -webkit-auto;
+  font-weight: 500;
+  color:  #fff !important;
+  list-style-type: none;  
+  font-size: 17px;  
+  position: relative;
+  padding-left: 1.5em;
+}
+
+.sample {
+  margin-top: 20px;
+  border-radius: 13px;
+    color: #fff;
+    box-sizing: content-box;
+    padding: 2px;
+    border: 5px solid rgb(255 255 255 / 15%);
+    margin-bottom: 25px;
+}
+
+.sample h4 {
+    color: #fff;
+    text-align: initial;
+  
+}
+
+#services {
+  padding: 100px 0;
+  background: linear-gradient(to right, #5ca9fb 0%, #777 100%);
+  color: #fff;;
+}
+
+
+.investment li:before {
+  content: "\f00c";
+  font-family: "FontAwesome";
+  color:#1430a6;
+  font-size: 11px;
+  font-weight: 300;
+  padding-right: 8px;
+  margin-right: 12px;
+  position: absolute;
+  left: 0;
+  top: 7px;
+}
+
+#disclaimer .container {
+  background-color: black;
+  width: 100%;
+}
+
+#disclaimer .container .note::before {
+  color: red;
+  content: "Note : ";
+}
+
+
+#disclaimer .container .warning::before {
+  color: red;
+  content: "Disclaimer & Risk Warning : ";
+}
+
+
+
+disclosure
+
+#disclaimer .container .disclosure::before {
+  color: red;
+  content: "Disclosure : ";
+}
+
+.disclosure li {
+  position: relative;
+  padding-left: 1.5em;
+}
+
+.disclosure li:before {
+  content: "\f00c";
+  font-family: "FontAwesome";
+  color: red;
+  position: absolute;
+  left: 0;
+  top: 1px;
+}
+
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  /* margin-top: -49px; */
+}
+.serviceModal {
+  height: 100%;
+  margin-bottom: 5rem;
+}
+#services {
+  height: fit-content;
+}
+.serviceRow {
+  display:         flex;
+  flex-wrap: wrap;
+}
+.portfolio-items {
+  text-align: left;
+  display: flex;
+  justify-content: space-between;
+}
+.portfolio-items li {
+  position: relative;
+  list-style-type: none;
+  padding-left: 1.5em;
+}
+.portfolio-items li:before {
+  content: "\f00c";
+  font-family: "FontAwesome";
+  color: #1430a6;
+  font-size: 11px;
+  font-weight: 300;
+  padding-right: 8px;
+  margin-right: 12px;
+  position: absolute;
+  left: 0;
+  top: 7px;
+}
+.subItem {
+  box-shadow: 1px 0px 5px #000;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 17px;
+}
+.subLi{
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+}
