@@ -23,7 +23,7 @@
    }
     },
     {
-      "key": "Stock Cash",
+      "key": "Stock FUTURE",
       "data" : { 
       "MONTHLY": "7999/-",
       "QUARTERLY": "20000/-",
@@ -32,7 +32,34 @@
    }
     },
     {
-      "key": "Stock Cash",
+      "key": "Stock OPTION",
+      "data" : { 
+      "MONTHLY": "7999/-",
+      "QUARTERLY": "20000/-",
+      "HALF-YEARLY": "35000/-",
+      "YEARLY" : "- NA "
+   }
+    },
+    {
+      "key": "INDEX SERVICES",
+      "data" : { 
+      "MONTHLY": "7999/-",
+      "QUARTERLY": "20000/-",
+      "HALF-YEARLY": "35000/-",
+      "YEARLY" : "- NA "
+   }
+    },
+    {
+      "key": "MCX SERVICE",
+      "data" : { 
+      "MONTHLY": "7999/-",
+      "QUARTERLY": "20000/-",
+      "HALF-YEARLY": "35000/-",
+      "YEARLY" : "- NA "
+   }
+    },
+    {
+      "key": "NCDEX PACK",
       "data" : { 
       "MONTHLY": "7999/-",
       "QUARTERLY": "20000/-",
@@ -191,12 +218,9 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "PERMILA PLAZA, NEAR SHASTRI BRIDGE, JABALPUR – 482001, MADHYA PRADESH,  INDIA",
+    "phone": "+91 8819029888",
+    "email": "www.brainiacsignal.com"
   },
   "Features": [
     {

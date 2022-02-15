@@ -159,8 +159,8 @@ disclosure
   flex-wrap: wrap;
 }
 .portfolio-items {
-  text-align: left;
-  display: flex;
+  text-align: center;
+  /* display: flex; */
   justify-content: space-between;
 }
 .portfolio-items li {
@@ -183,11 +183,26 @@ disclosure
 .subItem {
   box-shadow: 1px 0px 5px #000;
     border-radius: 5px;
-    margin: 10px;
+    margin: 20px;
     padding: 17px;
 }
 .subLi{
   display: flex;
   justify-content: space-between;
   font-weight: bold;
+}
+
+.section-title h2 {
+  position: relative;
+  margin-top: 35px;
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+  margin-left: -145px;
+}
+
+
+h1, .h1, h2, .h2, h3, .h3 {
+  margin-top: 7px;
+  margin-bottom: 19px;
+  color: cadetblue;
 }

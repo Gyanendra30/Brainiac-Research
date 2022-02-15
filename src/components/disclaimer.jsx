@@ -31,7 +31,7 @@ export const Disclaimer = (props) => {
   <p style={{backgroundColor:"#fff"}}>
     &copy; 2021 Design by{' '}
     <a href='http://www.templatewire.com' rel='nofollow'>
-      TemplateWire
+    CodeWare Technologies
     </a>
   </p>
 
