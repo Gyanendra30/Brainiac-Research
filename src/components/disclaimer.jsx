@@ -29,7 +29,7 @@ export const Disclaimer = (props) => {
 <div id='footer'>
 <div className='container text-center'>
   <p style={{backgroundColor:"#fff"}}>
-    &copy; 2021 Design by{' '}
+    &copy; 2022 Design by{' '}
     <a href='http://www.templatewire.com' rel='nofollow'>
     CodeWare Technologies
     </a>
