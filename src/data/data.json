@@ -14,7 +14,7 @@
   },
   "PRICING_PLANS": [
     {
-      "key": "Stock Cash",
+      "key": "STOCK CASH",
       "data" : { 
       "MONTHLY": "7999/-",
       "QUARTERLY": "20000/-",
@@ -23,7 +23,7 @@
    }
     },
     {
-      "key": "Stock FUTURE",
+      "key": "STOCK FUTURE",
       "data" : { 
       "MONTHLY": "7999/-",
       "QUARTERLY": "20000/-",
@@ -32,7 +32,7 @@
    }
     },
     {
-      "key": "Stock OPTION",
+      "key": "STOCK OPTION",
       "data" : { 
       "MONTHLY": "7999/-",
       "QUARTERLY": "20000/-",
