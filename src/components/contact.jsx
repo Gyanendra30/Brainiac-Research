@@ -7,7 +7,7 @@ const initialState = {
   message: '',
 }
 export const Contact = (props) => {
-  const [{ name, email, message }, setState] = useState(initialState)
+  const [{ name, email, message }, setState] = useState("")
   const [msg, setMsg] = useState("");
 
   const handleChange = (e) => {
@@ -18,14 +18,14 @@ export const Contact = (props) => {
 
   const handleSubmit = (e) => {
     e.preventDefault()
-    console.log(name, email, message)
+    // console.log(name, email, message)
     emailjs
       .sendForm(
-        'service_6xm4aun', 'template_smmpdzo', e.target, 'user_NizPQ7xgCdnuOk9g28xgY'
+        'service_49pyutt', 'template_xz1r62b', e.target, 'n0RsqDfaLK5mqweos'
       )
       .then(
         (result) => {
-          console.log(result.text)
+          // console.log(result.text)
           setMsg(result.text);
           clearState()
         },
@@ -34,9 +34,11 @@ export const Contact = (props) => {
         }
       )
     setTimeout(() => {
-      setMsg("");
+      setMsg(""); 
     }, 5000);
+    e.target.reset()
   }
+  
 
   return (
     <div>
